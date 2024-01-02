@@ -1,5 +1,7 @@
 # NppBgimg
 ***UNOFFICIAL***, Modifies the code of Notepad++ to draw background image. 
+- Support both GDI and D2D
+- Only has Uniform To Fill mode. 
 ! WORD WRAP IS NOT SUPPORT ! 
 
 # Usage
